@@ -9,7 +9,7 @@ b = """.▄▄ · • ▌ ▄ ·. .▄▄ ·   ▄▄▄▄·       • ▌ ▄ 
 """
 print (b)
 
-print ("my github https://github.com/mohammad30666 ")
+print ("my github https://github.com/mohammad30666 , https://github.com/HIROwnh")
 
 
 target = input ('target phone number >>> ')
